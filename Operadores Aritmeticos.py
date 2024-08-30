@@ -11,6 +11,6 @@ Ejemplo1 = (4+3)-((3*2)+1)
 print(f"El resultado de la operacion es:{Ejemplo1}")
 
 #Ejemplo III
-Ejemplo1 = 2*3+5(9/3)
+Ejemplo1 = 2*(3+(5(9/3)))
 #Imprimir variable 
 print(f"El resultado de la operacion es:{Ejemplo1}")
