@@ -20,4 +20,3 @@ Ejemplo4 = 7+3*(1+5*(2*(9-7)+4)+2)
 #Imprimir variable 
 print(f"El resultado de la operacion es:{Ejemplo4}")
 
-
